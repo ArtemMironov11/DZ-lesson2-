@@ -41,3 +41,4 @@ Bugs related to this website can be reported at its issue tracker. Bugs related 
 
 If you are new to submitting bugs, you might find this guide helpful for producing useful bug reports.
 
+закончим на этом пожалуй)
